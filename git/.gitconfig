@@ -1,9 +1,9 @@
 [user]
-  name = Ben Diuguid
-  email = bendiuguid@gmail.com
+  name = Alicia Rodriguez
+  email = rodriguez.aliciaf@gmail.com
 
 [github]
-  user = bendiuguid
+  user = arodr967
 
 [core]
   excludesfile = ~/.gitignore_global

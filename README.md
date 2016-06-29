@@ -1,8 +1,6 @@
-# Ben Diuguid's dotfiles
+# Alicia Rodriguez's dotfiles
 
 For more information on dotfiles [visit this](http://dotfiles.github.io/)
-
-Follow me on Twitter: [@BenDiuguid](https://twitter.com/BenDiuguid)
 
 ## Overview
 
@@ -17,7 +15,7 @@ Follow me on Twitter: [@BenDiuguid](https://twitter.com/BenDiuguid)
 To install these dotfiles, simply clone this repo then cd into it and execute install.sh. You can also simply paste the following command into terminal, which switch the the home directory, clone the repo into .dotfiles/ and then run the install script with bash.
 
 
-Copy and Paste into terminal: `cd ~/ && git clone https://github.com/bendiuguid/dotfiles .dotfiles && cd .dotfiles && bash install.sh`
+Copy and Paste into terminal: `cd ~/ && git clone https://github.com/arodr967/dotfiles .dotfiles && cd .dotfiles && bash install.sh`
 
 ## File System
 
@@ -68,12 +66,10 @@ The themes are located in the `themes/` folder.
 ### Installing themes
 To install a theme, simply navigate to the preferences/settings of the terminal or iTerm, and import the desired theme.
 
-### Screenshots
+<!-- ### Screenshots
 ![Terminal Theme](https://github.com/bendiuguid/dotfiles/raw/master/docs/imgs/terminalThemeAt2016-05-08.png)
 
-![iTerm Theme](https://github.com/bendiuguid/dotfiles/raw/master/docs/imgs/itermThemeAt2016-05-08.png)
+![iTerm Theme](https://github.com/bendiuguid/dotfiles/raw/master/docs/imgs/itermThemeAt2016-05-08.png) -->
 
 ## Caveats
 Currently I have not tested this on anything other than OS X, and I know all of the `brew` stuff will not work on Linux or Windows systems.
-
-# Happy Hacking!

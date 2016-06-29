@@ -10,7 +10,6 @@ brew tap caskroom/versions
 
 # Install packages
 apps=(
-  android-file-transfer
   android-studio
   appcleaner
   brave
@@ -20,22 +19,16 @@ apps=(
   drop-to-gif
   firefox
   firefoxdeveloperedition
-  flux
-  github-desktop
+  # flux
   google-chrome
   google-chrome-canary
   google-drive
-  gopro
-  iterm2
   java
   opera
   robomongo
-  safari-technology-preview
   skype
   slack
   sublime-text
-  torbrowser
-  transmission
   virtualbox
   visual-studio-code
   vivaldi

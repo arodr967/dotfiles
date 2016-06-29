@@ -1,5 +1,5 @@
 # Install atom.
-brew cask install atom
+# brew cask install atom
 
 # Install atom packages
 packages=(
