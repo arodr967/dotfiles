@@ -32,6 +32,8 @@ packages=(
   seti-syntax
   slack-ui
   travis-ci-status
+  minimap
+  js-hyperclick
 )
 
 if [ $(which apm) ]; then
