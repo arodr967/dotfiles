@@ -117,7 +117,7 @@ bash_prompt_command() {
   P_HOST=${P_BRIGHT_MAGENTA}${P_HOST}
 
   # FINAL PROMPT
-  PS1="${P_EXIT}${P_USER}${P_WHITE}@${P_HOST} ${P_PWD} ${P_GIT}${P_BRIGHT_MAGENTA}✨🌸  ${P_RESET}"
+  PS1="${P_EXIT}${P_USER}${P_WHITE}@${P_HOST} ${P_PWD} ${P_GIT}${P_BRIGHT_MAGENTA}✨💚✨  ${P_RESET}"
 }
 
 parse_git_status () {
